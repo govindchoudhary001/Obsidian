@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf4ab88cf61230bc",
+  "active": "8710b46bb895da47",
   "lastOpenFiles": [
     "City Builder Notes.md"
   ]

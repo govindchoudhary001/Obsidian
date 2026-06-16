@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\plugins\\obsidian-git\\styles.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:plugins\\obsidian-git\\styles.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\plugins\\obsidian-git\\obsidian_askpass.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:plugins\\obsidian-git\\obsidian_askpass.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\plugins\\obsidian-git\\manifest.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:plugins\\obsidian-git\\manifest.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\plugins\\obsidian-git\\main.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:plugins\\obsidian-git\\main.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\workspace.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:workspace.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\graph.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:graph.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\community-plugins.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:community-plugins.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\core-plugins.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:core-plugins.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\appearance.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appearance.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\app.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\plugins\\obsidian-git\\styles.css",
+              "RelativeDocumentMoniker": "plugins\\obsidian-git\\styles.css",
+              "ToolTip": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\plugins\\obsidian-git\\styles.css",
+              "RelativeToolTip": "plugins\\obsidian-git\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-16T06:30:35.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "obsidian_askpass.sh",
+              "DocumentMoniker": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\plugins\\obsidian-git\\obsidian_askpass.sh",
+              "RelativeDocumentMoniker": "plugins\\obsidian-git\\obsidian_askpass.sh",
+              "ToolTip": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\plugins\\obsidian-git\\obsidian_askpass.sh",
+              "RelativeToolTip": "plugins\\obsidian-git\\obsidian_askpass.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2026-06-16T06:30:33.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\plugins\\obsidian-git\\manifest.json",
+              "RelativeDocumentMoniker": "plugins\\obsidian-git\\manifest.json",
+              "ToolTip": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\plugins\\obsidian-git\\manifest.json",
+              "RelativeToolTip": "plugins\\obsidian-git\\manifest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T06:30:26.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\plugins\\obsidian-git\\main.js",
+              "RelativeDocumentMoniker": "plugins\\obsidian-git\\main.js",
+              "ToolTip": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\plugins\\obsidian-git\\main.js",
+              "RelativeToolTip": "plugins\\obsidian-git\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-16T06:30:19.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "workspace.json",
+              "DocumentMoniker": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\workspace.json",
+              "RelativeDocumentMoniker": "workspace.json",
+              "ToolTip": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\workspace.json",
+              "RelativeToolTip": "workspace.json",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T06:30:00.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "core-plugins.json",
+              "DocumentMoniker": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\core-plugins.json",
+              "RelativeDocumentMoniker": "core-plugins.json",
+              "ToolTip": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\core-plugins.json",
+              "RelativeToolTip": "core-plugins.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T06:29:51.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "graph.json",
+              "DocumentMoniker": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\graph.json",
+              "RelativeDocumentMoniker": "graph.json",
+              "ToolTip": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\graph.json",
+              "RelativeToolTip": "graph.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T06:29:50.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "community-plugins.json",
+              "DocumentMoniker": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\community-plugins.json",
+              "RelativeDocumentMoniker": "community-plugins.json",
+              "ToolTip": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\community-plugins.json",
+              "RelativeToolTip": "community-plugins.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T06:29:49.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appearance.json",
+              "DocumentMoniker": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\appearance.json",
+              "RelativeDocumentMoniker": "appearance.json",
+              "ToolTip": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\appearance.json",
+              "RelativeToolTip": "appearance.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T06:29:48.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.json",
+              "DocumentMoniker": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\app.json",
+              "RelativeDocumentMoniker": "app.json",
+              "ToolTip": "C:\\Users\\MIPL\\Documents\\Obsidian Vault\\.obsidian\\app.json",
+              "RelativeToolTip": "app.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T06:29:46.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
