@@ -1,0 +1,1 @@
+okay now lets add a new Building which is Masonry create a placement button function and tell me the on click setup. then the Masonry will work like this one masonry max capacity will be 6 and the
