@@ -24,7 +24,7 @@ This is my Plan now i want you to analysee my plan and make a Plan that can Fit 
 
 ## Animator Setup
 
-lets First Create animator again here is my animation clips for both the Types of my NPC now help me create an animator with same type Clips for both NPC which we are Coing to use in our Game  
+lets First Create animator again here is my animation clips for both the Types of my NPC now help me create an animator with same type Clips for both NPC which we are going to use in our Game  
   
 we are going to use the Clips  
 - Walk - for walking  
