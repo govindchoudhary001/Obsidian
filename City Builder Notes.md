@@ -47,3 +47,10 @@ we are going to use the Clips
 - dig - for planting
 - Death - when NPC Dies
 - axe - for chopping the wood.
+
+
+attack 
+mining
+reelong 
+roll
+walk
