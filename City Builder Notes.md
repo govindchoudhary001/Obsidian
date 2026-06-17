@@ -30,6 +30,11 @@ we are going to use the Clips
 - Walk - for walking  
 - Running - 
 - Watering -
-- Waiting - for Fishing Waiting with fishing rope inside the water
 - Swimming
-- Roll - role with some delay when is in hurry
+- Roll - role with some delay when is in hurry. rolling will make the movement speed to normal walking speed *3* when rolling true else the normal speed which is already assigns
+- Waiting - for Fishing Waiting with fishing rope inside the water
+- reeling - when pulling the fishing rope 
+- mining - will be used for farming
+- Jump- This will be played when the moving from the one level floor to another level floor 
+- idle 
+- hurt when
