@@ -32,9 +32,18 @@ we are going to use the Clips
 - Watering -
 - Swimming
 - Roll - role with some delay when is in hurry. rolling will make the movement speed to normal walking speed *3* when rolling true else the normal speed which is already assigns
+- casting - when throwing the fishing rope to the water.
 - Waiting - for Fishing Waiting with fishing rope inside the water
 - reeling - when pulling the fishing rope 
+- caught - when fish caught
 - mining - will be used for farming
 - Jump- This will be played when the moving from the one level floor to another level floor 
 - idle 
-- hurt when
+- attack - for fighting
+- hurt - we will add the fight in the future
+- hammering - To Build or destroy anything 
+- doing - for the chef
+- carry -
+- dig - for planting
+- Death - when NPC Dies
+- axe - for chopping the wood.
