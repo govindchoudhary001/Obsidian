@@ -7,17 +7,17 @@ Okay now i want to Create a Bakery where the NPC Farmer will create Bread for th
 
 The process will be:-  
   
-- First we will setup the Bakery Building just like other Buildings this will require 2 NPC Builder and 60 Second and split tile accordingly means if 2 workers reach they will take half of remaining time.  
+- First we will setup the Bakery Building just like other Buildings this will require 2 NPC Builder and 60 Second to be completely build and split tile accordingly means if 2 workers reach they will take half of remaining time.  
 
 - The NPC Now no longer will store wheat to the Home they will store the wheat in the Bakery. The bakery will use the wheat and create the Bread.  
 
 - Use the Main Panel in which we have UpKeep which we alredy had assigned in the StatsPanelUI that will show the Wheat = Bread Image card and there will be a count down of 5 second to create a Bread create a bool and make this process automatic so the the NPC will keep creating the Bread.  
 
-- When i will place a bakery the Builder will Build it give 2 NPC farmer The Bakery Job Create a new Job "Chef" in the Job Priority Panel 1 bakery will have 2 chef and they will create 2 bread in 5 second means 1 bread each increase the Total Number of Breads. the Bakery Panel will show the Total count in the UI Panel the Current bakery Building is holding(2 NPC will go inside the Bakery and stay there playing the IsDoing animation donot hide the NPC sprite).Also Create a Delivery Girl Job also their work will be to take the Bread from the Bakery and store it to all the Required houses each shop can have 2 Delivery Girls(this will be handled by the same carrying animation) one the work has been assigned as Delivery Girl thet cannot do farming or any other work except Fire Extinguisher.  
+- When i will place a bakery the Builder will Build it and create a new job in priority list as 2 NPC Job Create a new Job "Chef" in the Job Priority Panel 1 bakery will have 2 chef and they will create 2 bread in 5 second means 1 bread each increase the Total Number of Breads. the Bakery Panel will show the Total count in the UI Panel the Current bakery Building is holding(2 NPC will go inside the Bakery and stay there playing the IsDoing animation don't hide the NPC sprite).Also Create a Delivery Girl Job also their work will be to take the Bread from the Bakery and store it to all the Required houses each shop can have 2 Delivery Girls(this will be handled by the same carrying animation) one the work has been assigned as Delivery Girl thet cannot do farming or any other work except Fire Extinguisher.  
   
 - The UI Panel Thing when the player Click the Building then it will show the main Panel. it will also zoom in to the Bakery using the Chinamachine camera to 2 and fade the Building by reducing its alpha so the we can see inside the Bakery The Chef playing the Doing Animation.
 
-This is my Plan now i want you to analysee my plan and make a Plan that can Fit in my game. keep all the required variables like the chef count in bakery the Delivery Boy Count per Bakery, The time it will take to Create Bread and the Number of wheat it require to create one Bread keep 1 wheat 1 Bread as default for now. Do not do any coading this is a very big task we should plan it and breake it into multiple steps so that game don't break.
+This is my Plan now i want you to analyses my plan and make a Plan that can Fit in my game. keep all the required variables like the chef count in bakery the Delivery Boy Count per Bakery, The time it will take to Create Bread and the Number of wheat it require to create one Bread keep 1 wheat 1 Bread as default for now. Do not do any coading this is a very big task we should plan it and breake it into multiple steps so that game don't break.
 
 
 
