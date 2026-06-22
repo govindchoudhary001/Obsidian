@@ -17,7 +17,7 @@ The process will be:-
   
 - The UI Panel Thing when the player Click the Building then it will show the main Panel. it will also zoom in to the Bakery using the Chinamachine camera to 2 and fade the Building by reducing its alpha so the we can see inside the Bakery The Chef playing the Doing Animation.
 
-This is my Plan now i want you to analyses my plan and make a Plan that can Fit in my game. keep all the required variables like the chef count in bakery the Delivery Boy Count per Bakery, The time it will take to Create Bread and the Number of wheat it require to create one Bread keep 1 wheat 1 Bread as default for now. Do not do any coading this is a very big task we should plan it and breake it into multiple steps so that game don't break.
+This is my Plan now i want you to analyses my plan and make a Plan that can Fit in my game. keep all the required variables like the chef count per bakery the Delivery Guy Count per Bakery, The time it will take to Create Bread and the Number of wheat it require to create one Bread keep 1 wheat 1 Bread as default for now. You are a Senior game Designer Do not do any coadding this is a very big task we should plan it and break it into multiple steps so that game don't break.
 
 
 
