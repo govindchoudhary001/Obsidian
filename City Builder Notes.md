@@ -19,9 +19,11 @@ The process will be:-
 
 This is my Plan now i want you to analyses my plan and make a Plan that can Fit in my game. keep all the required variables like the chef count per bakery the Delivery Guy Count per Bakery, The time it will take to Create Bread and the Number of wheat it require to create one Bread keep 1 wheat 1 Bread as default for now. You are a Senior game Designer Do not do any coadding this is a very big task we should plan it and break it into multiple steps so that game don't break.
 
+========================================
+## Bakery Bug
+- if i place 2 bakeries the NPC farmer is only dropping wheat on 1 bakery only.
 
-
-
+=========================================
 ## Animator Setup
 
 lets First Create animator again here is my animation clips for both the Types of my NPC now help me create an animator with same type Clips for both NPC which we are going to use in our Game  
